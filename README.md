@@ -1,0 +1,2 @@
+# Android_OnlineShopping_prototype
+On the first screen the app allows users to select an occasion and the then it pops up a list of things needed for that occasion. User can "check" (select) the items he thinks he will need and click next. From the next screen he can see a listing of all the available items. He can select the items and add to cart and buy it. At the moment the code just shows the functionality to see the listings. Need to add the shopping cart and checkout functionality.
