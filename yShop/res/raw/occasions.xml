@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<occasions>
+    <occasion>
+        <name>Birthday</name>
+        <image></image>
+        <keywords></keywords>
+    </occasion>
+    <occasion>
+        <name>4th July</name>
+        <image></image>
+        <keywords></keywords>
+    </occasion>
+    <occasion>
+        <name>Memorial Day</name>
+        <image></image>
+         <keywords></keywords>
+    </occasion>
+    <occasion>
+        <name>Mother Day</name>
+        <image></image>
+        <keywords></keywords>        
+    </occasion>
+    <occasion>
+        <name>Father Day</name>
+        <image></image>
+        <keywords></keywords>        
+    </occasion>
+    <occasion>
+        <name>Back To School</name>
+        <image></image>
+        <keywords></keywords>        
+    </occasion>
+    <occasion>
+        <name>Thanksgiving</name>
+        <image></image>
+        <keywords></keywords>        
+    </occasion>
+    <occasion>
+        <name>Christmas</name>
+        <image></image>
+        <keywords></keywords>        
+    </occasion>
+    <occasion>
+        <name>New Year</name>
+        <image></image>
+        <keywords></keywords>        
+    </occasion>
+</occasions>
