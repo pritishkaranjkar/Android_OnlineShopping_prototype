@@ -26,10 +26,10 @@ public class GetSuggestedCategories {
 
     public ArrayList<Category> getCategories(String occasion, String keywords)
     {
-        String devID = "693dd551-ceb9-4505-9060-ebf517723960";
-        String appID = "DSSTeam9e-eb31-4c40-b638-4f36d25258f";
-        String certID = "6cc67c10-eccb-4077-ae13-118e8cf13744";
-        String userToken = "AgAAAA**AQAAAA**aAAAAA**3826Uw**nY+sHZ2PrBmdj6wVnY+sEZ2PrA2dj6AGloCmD5KDogidj6x9nY+seQ**KVYCAA**AAMAAA**JPbitX7zZGQRowKsu0SDxxgeP2eGskgbbulpk+tAVipLXKU2yEZh2I3nhb5l3QXjDSJpJQM4vqa1X0HDchtsvLIPqy8U3bD3hOlRxxkcexgZXz6kHzH7flsM+GH9bD2mwfefLdJuyeoe8cI5CdvSRtTb1jQVe0QNAguAr8ExjXhslPkcIJ7cHn26UPwzxJAUbYZg353U7TfqtOaqPYZ1YoS+IIuY4O/TRXq1l3jssz0fc+B9u/foM4q1HiwHV07wP6SvKNJJKEb47ZK4YdrzmZ1cZBEbgmYt0OYXt7LdYdd+kHDbgV7UBDHaW+iSg5W+tr64IgpZbEv35BGpjeaga7GQjK8K9b3OqEkvOtsB72HDi7Wo2G/N4amZ6YPXytikm87TfCJIagcQB+bLo4+u1jKGKEIXKlct+fp5EIhlv/br0jtpUzUE4Uhx3Jbdy76Ju0q7OH1Vb7o+a8TiLnwwiqPUOAsR1VmZYU++VMgJokbCIxV2LDvLVo43O2+EzA1RRpDU8x9SRKy/v+q5RVnZ3Lxocca31MoFhi0t0w0NjJMxEvxzEPlk3h7UQ90z9u2emxGsUsHTjEmE2dil/xTBoA+pN7vmyr6m5TX3udoRRH7lPN3e5Qo5S73gWr21DRWuAltASC7ZjIoHzCKFzJ9nc/EF80zbv5ccMx6EQ173uc8XKFRP0GzZfQl8M6VyZfzQArniCe+CyV3mUQnz1T52+cmfHACzc2QTP/t/2NdOhatWkIOWD9/Vg9FH5rWRzptd";
+        String devID = "********";
+        String appID = "********";
+        String certID = "*******";
+        String userToken = "*******dj6wVnY+sEZ2PrA****WkIOWD9/Vg9FH5rWRzptd";
 
         String serverUrl = "https://api.ebay.com/ws/api.dll";
         String compatLevel = "551";
